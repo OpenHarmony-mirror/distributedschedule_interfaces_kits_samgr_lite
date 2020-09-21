@@ -150,7 +150,7 @@ struct Provider {
 typedef struct Subscriber Subscriber;
 
 /**
- * @brief Defines the subscriber for external interfaces to subsribe to events and data of a topic.
+ * @brief Defines the subscriber for external interfaces to subscribe to events and data of a topic.
  */
 struct Subscriber {
     /**
